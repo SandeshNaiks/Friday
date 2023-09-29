@@ -1,6 +1,0 @@
-Lamda expression and Stream api
-
-Company
-Heraizen Technologies pvt Ltd (java, J2EE, web)
-Mycro nxt solutions pvt Ltd(Java,J2EE) Mechanical
-Iolite technologies
